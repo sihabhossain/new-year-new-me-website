@@ -146,6 +146,34 @@ body{
     font-weight: 600;
  }
 
+ /* MY HOBBY SECTION */
+
+.gamerlogo{
+   height: 220px;
+   width: 230px;
+}
+
+.myhobby{
+   text-align: center;
+   margin-top: 100px;
+   margin-left: 300px;
+   margin-right: 300px;
+}
+
+.myhobby-title{
+   font-size: 50px;
+}
+
+.gaming{
+   color: #005FAC;
+   font-weight: 800;
+}
+
+.myhobby-des{
+   color: #757575;
+   
+}
+
  /* GRADIENT SECTION */
 
  .gradient{
